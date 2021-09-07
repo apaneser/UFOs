@@ -5,28 +5,28 @@ Dana wants the table in her webpage about UFOs to have more functionality. The p
 
 ## Analysis
 Unfiltered:
-![unfiltered](unfiltered.PNG)
+![unfiltered](resources/unfiltered.PNG)
 
 Filter By Date:
-![Date Filter](filterByDate.PNG)
+![Date Filter](resources/filterByDate.PNG)
 
 Filter by City:
-![City Filter](filterByCity.PNG)
+![City Filter](resources/filterByCity.PNG)
 
 Filter by State: 
-![State Filter](filterByState.PNG)
+![State Filter](resources/filterByState.PNG)
 
 Filter by Country:
-![Country Filter](filterByCountry.PNG)
+![Country Filter](resources/filterByCountry.PNG)
 
 Filter by Shape:
-![Shape Filter](filterByShape.PNG)
+![Shape Filter](resources/filterByShape.PNG)
 
 Using multiple filters:
-![multifilter](multiFilter.PNG)
+![multifilter](resources/multiFilter.PNG)
 
 removing a filter:
-![filter remove](removeFilter.PNG)
+![filter remove](resources/removeFilter.PNG)
 
 ##
 Summary
